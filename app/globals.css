@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+.gradientcolor {
+  background: #6b7909;
+  background: linear-gradient(0deg, rgba(19, 19, 19, 30) 0%, transparent 100%);
+}
