@@ -16,7 +16,7 @@ export default function Srtories() {
       >
         <div className="flex gap-5 p-5 gradientcolor h-full items-baseline flex-col justify-end">
           <h1 className="text-white font-medium text-lg">
-            " The Reason why i decided to go with Better is because after I did
+          &quot; The Reason why i decided to go with Better is because after I did
             my research with the other lenders, Better was the ones that
             provided me with the lowest interest rate
           </h1>
